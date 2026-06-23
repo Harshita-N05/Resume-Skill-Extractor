@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "sentence": "Proficient in Python and machine learning frameworks such as TensorFlow and PyTorch",
+    "tokens": ["Proficient", "in", "Python", "and", "machine", "learning", "frameworks", "such", "as", "TensorFlow", "and", "PyTorch"],
+    "tags":    ["O",          "O",  "B-SKILL", "O",   "B-SKILL",  "I-SKILL",   "I-SKILL",   "O",    "O",  "B-SKILL",   "O",   "B-SKILL"]
+  },
+  {
+    "id": 2,
+    "sentence": "Experience with Docker Kubernetes and CI CD pipelines using Jenkins",
+    "tokens": ["Experience", "with", "Docker", "Kubernetes", "and", "CI", "CD", "pipelines", "using", "Jenkins"],
+    "tags":    ["O",          "O",    "B-SKILL", "B-SKILL",  "O",   "B-SKILL", "I-SKILL", "O",      "O",     "B-SKILL"]
+  },
+  {
+    "id": 3,
+    "sentence": "Developed RESTful APIs using Node.js and Express with MongoDB as the database",
+    "tokens": ["Developed", "RESTful", "APIs", "using", "Node.js", "and", "Express", "with", "MongoDB", "as", "the", "database"],
+    "tags":    ["O",         "B-SKILL", "I-SKILL", "O", "B-SKILL",  "O",  "B-SKILL",  "O",   "B-SKILL",  "O",  "O",   "O"]
+  },
+  {
+    "id": 4,
+    "sentence": "Strong background in data analysis using Pandas NumPy and Matplotlib",
+    "tokens": ["Strong", "background", "in", "data", "analysis", "using", "Pandas", "NumPy", "and", "Matplotlib"],
+    "tags":    ["O",      "O",          "O",  "B-SKILL", "I-SKILL", "O",  "B-SKILL", "B-SKILL", "O", "B-SKILL"]
+  },
+  {
+    "id": 5,
+    "sentence": "Built responsive web applications using React and TypeScript",
+    "tokens": ["Built", "responsive", "web", "applications", "using", "React", "and", "TypeScript"],
+    "tags":    ["O",     "O",          "O",   "O",            "O",     "B-SKILL", "O", "B-SKILL"]
+  },
+  {
+    "id": 6,
+    "sentence": "Implemented natural language processing pipelines with BERT and spaCy",
+    "tokens": ["Implemented", "natural", "language", "processing", "pipelines", "with", "BERT", "and", "spaCy"],
+    "tags":    ["O",           "B-SKILL", "I-SKILL",  "I-SKILL",   "O",         "O",    "B-SKILL", "O", "B-SKILL"]
+  },
+  {
+    "id": 7,
+    "sentence": "Skilled in SQL PostgreSQL and database design and optimisation",
+    "tokens": ["Skilled", "in", "SQL", "PostgreSQL", "and", "database", "design", "and", "optimisation"],
+    "tags":    ["O",       "O",  "B-SKILL", "B-SKILL", "O", "B-SKILL",  "I-SKILL", "O",  "O"]
+  },
+  {
+    "id": 8,
+    "sentence": "Proficient in Java Spring Boot and microservices architecture",
+    "tokens": ["Proficient", "in", "Java", "Spring", "Boot", "and", "microservices", "architecture"],
+    "tags":    ["O",          "O",  "B-SKILL", "B-SKILL", "I-SKILL", "O", "B-SKILL",     "I-SKILL"]
+  },
+  {
+    "id": 9,
+    "sentence": "Worked with AWS services including EC2 S3 and Lambda for serverless deployments",
+    "tokens": ["Worked", "with", "AWS", "services", "including", "EC2", "S3", "and", "Lambda", "for", "serverless", "deployments"],
+    "tags":    ["O",      "O",    "B-SKILL", "O",    "O",         "B-SKILL", "B-SKILL", "O", "B-SKILL", "O", "B-SKILL", "O"]
+  },
+  {
+    "id": 10,
+    "sentence": "Applied deep learning techniques using Keras and Scikit-learn for classification tasks",
+    "tokens": ["Applied", "deep", "learning", "techniques", "using", "Keras", "and", "Scikit-learn", "for", "classification", "tasks"],
+    "tags":    ["O",       "B-SKILL", "I-SKILL", "O",       "O",     "B-SKILL", "O", "B-SKILL",      "O",  "O",               "O"]
+  },
+  {
+    "id": 11,
+    "sentence": "Used Git GitHub and Agile methodology for collaborative software development",
+    "tokens": ["Used", "Git", "GitHub", "and", "Agile", "methodology", "for", "collaborative", "software", "development"],
+    "tags":    ["O",    "B-SKILL", "B-SKILL", "O", "B-SKILL", "O",      "O",  "O",             "O",        "O"]
+  },
+  {
+    "id": 12,
+    "sentence": "Experience with computer vision using OpenCV and image segmentation techniques",
+    "tokens": ["Experience", "with", "computer", "vision", "using", "OpenCV", "and", "image", "segmentation", "techniques"],
+    "tags":    ["O",          "O",    "B-SKILL",  "I-SKILL", "O",   "B-SKILL", "O", "B-SKILL", "I-SKILL",     "O"]
+  },
+  {
+    "id": 13,
+    "sentence": "Designed GraphQL APIs and implemented caching strategies with Redis",
+    "tokens": ["Designed", "GraphQL", "APIs", "and", "implemented", "caching", "strategies", "with", "Redis"],
+    "tags":    ["O",         "B-SKILL", "O",  "O",  "O",            "O",       "O",           "O",    "B-SKILL"]
+  },
+  {
+    "id": 14,
+    "sentence": "Familiar with Tableau Power BI and data visualisation for business intelligence",
+    "tokens": ["Familiar", "with", "Tableau", "Power", "BI", "and", "data", "visualisation", "for", "business", "intelligence"],
+    "tags":    ["O",        "O",    "B-SKILL", "B-SKILL", "I-SKILL", "O", "B-SKILL", "I-SKILL", "O", "O",       "O"]
+  },
+  {
+    "id": 15,
+    "sentence": "Implemented reinforcement learning algorithms using OpenAI Gym and stable baselines",
+    "tokens": ["Implemented", "reinforcement", "learning", "algorithms", "using", "OpenAI", "Gym", "and", "stable", "baselines"],
+    "tags":    ["O",           "B-SKILL",       "I-SKILL",  "O",         "O",     "B-SKILL", "I-SKILL", "O", "B-SKILL", "I-SKILL"]
+  },
+  {
+    "id": 16,
+    "sentence": "Competent in C++ and systems programming with Linux and Bash scripting",
+    "tokens": ["Competent", "in", "C++", "and", "systems", "programming", "with", "Linux", "and", "Bash", "scripting"],
+    "tags":    ["O",          "O",  "B-SKILL", "O", "B-SKILL", "I-SKILL", "O",  "B-SKILL", "O",  "B-SKILL", "O"]
+  },
+  {
+    "id": 17,
+    "sentence": "Developed mobile applications for iOS and Android using Flutter and Dart",
+    "tokens": ["Developed", "mobile", "applications", "for", "iOS", "and", "Android", "using", "Flutter", "and", "Dart"],
+    "tags":    ["O",         "O",      "O",            "O",   "B-SKILL", "O", "B-SKILL", "O",  "B-SKILL",  "O",  "B-SKILL"]
+  },
+  {
+    "id": 18,
+    "sentence": "Applied transfer learning with Hugging Face Transformers and fine-tuning GPT models",
+    "tokens": ["Applied", "transfer", "learning", "with", "Hugging", "Face", "Transformers", "and", "fine-tuning", "GPT", "models"],
+    "tags":    ["O",       "B-SKILL",  "I-SKILL",  "O",   "B-SKILL", "I-SKILL", "I-SKILL",  "O",  "B-SKILL",     "B-SKILL", "O"]
+  },
+  {
+    "id": 19,
+    "sentence": "Experience in ETL pipelines using Apache Spark and Apache Kafka for real-time streaming",
+    "tokens": ["Experience", "in", "ETL", "pipelines", "using", "Apache", "Spark", "and", "Apache", "Kafka", "for", "real-time", "streaming"],
+    "tags":    ["O",          "O",  "B-SKILL", "O",    "O",     "B-SKILL", "I-SKILL", "O", "B-SKILL", "I-SKILL", "O", "O",       "O"]
+  },
+  {
+    "id": 20,
+    "sentence": "Built and deployed machine learning models using MLflow and SageMaker",
+    "tokens": ["Built", "and", "deployed", "machine", "learning", "models", "using", "MLflow", "and", "SageMaker"],
+    "tags":    ["O",     "O",  "O",         "B-SKILL", "I-SKILL",  "O",     "O",     "B-SKILL", "O", "B-SKILL"]
+  }
+]
